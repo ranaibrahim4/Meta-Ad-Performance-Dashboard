@@ -25,14 +25,6 @@ This project addresses key business requirements for Meta advertising optimizati
 - Target audience refinement
 - Platform-specific strategy development
 
-## 🔍 Domain Knowledge
-
-The project incorporates domain expertise in:
-- Meta advertising ecosystem
-- Social media marketing best practices
-- Data analytics and visualization
-- User behavior analysis
-- Campaign optimization strategies
 
 ## 📊 Dashboard Insights
 
@@ -42,12 +34,6 @@ The project includes comprehensive dashboard insights covering:
 - Interactive filtering and analysis
 - Export capabilities for reporting
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## 📄 License
 
@@ -60,5 +46,6 @@ For questions or collaboration opportunities, please refer to the project docume
 ---
 
 *This project demonstrates advanced data analytics capabilities in the context of Meta advertising, providing actionable insights for marketing optimization and campaign performance improvement.*
+
 
 
