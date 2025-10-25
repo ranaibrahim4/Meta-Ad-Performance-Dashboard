@@ -6,26 +6,7 @@ A comprehensive data analytics project focused on Meta (Facebook/Instagram) adve
 
 This project analyzes Meta advertising data to provide insights into campaign performance, user engagement, and advertising effectiveness across Facebook and Instagram platforms. The analysis includes user demographics, campaign metrics, ad performance, and event tracking.
 
-## 📁 Project Structure
 
-```
-├── Raw Data/
-│   ├── ad_events.csv      # User interaction events (likes, shares, impressions, etc.)
-│   ├── ads.csv            # Ad details and targeting information
-│   ├── campaigns.csv      # Campaign metadata and budget information
-│   └── users.csv          # User demographics and profile data
-├── Images/
-│   ├── Facebook_Logo_2023.png
-│   ├── Google_Ads_logo.svg.png
-│   ├── Instagram_icon.png
-│   ├── Threads_(app).png
-│   ├── whatsapp.png
-│   └── meta_PNG*.png
-├── Business Requirements Document.pdf
-├── Dashboard Insights.pdf
-├── Domain Knowledge Document.pdf
-├── Meta AD.pdf
-├── Project Explaination in Interview.pdf
 └── Screenshot 2025-10-24 161230.png
 ```
 
@@ -153,3 +134,4 @@ For questions or collaboration opportunities, please refer to the project docume
 ---
 
 *This project demonstrates advanced data analytics capabilities in the context of Meta advertising, providing actionable insights for marketing optimization and campaign performance improvement.*
+
